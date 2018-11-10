@@ -2,6 +2,9 @@
     "name": "mitsuru793/",
     "description": "",
     "type": "library",
+    "scripts": {
+      "test": "phpunit --color=always"
+    },
     "require": {
         "tightenco/collect": "^5.7",
         "symfony/console": "^4.1"
