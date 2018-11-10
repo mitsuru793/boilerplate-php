@@ -3,7 +3,8 @@
     "description": "",
     "type": "library",
     "scripts": {
-      "test": "phpunit --color=always"
+      "test": "phpunit --color=always",
+      "analyze": "phpstan analyze $(git diff --diff-filter=ACMR --name-only --find-renames=0% $(git merge-base origin/master HEAD))"
     },
     "require": {
         "tightenco/collect": "^5.7",
