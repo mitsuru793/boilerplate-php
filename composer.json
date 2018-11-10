@@ -3,7 +3,7 @@
     "description": "",
     "type": "library",
     "require": {
-        "tightenco/collect": "^5.5",
+        "tightenco/collect": "^5.7",
         "symfony/console": "^4.1"
     },
     "require-dev": {

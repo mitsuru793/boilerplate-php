@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a07406b30326ec3c15134357940b37b2",
+    "content-hash": "5a2f74e701da944d6e6f8b5ba87eb388",
     "packages": [
         {
             "name": "symfony/console",
@@ -265,16 +265,16 @@
         },
         {
             "name": "tightenco/collect",
-            "version": "v5.7.12",
+            "version": "v5.7.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tightenco/collect.git",
-                "reference": "0d89929f10a495ebafc15fb6bff5581d10c38abb"
+                "reference": "5172ad96c54560352b79386b293375da40280fdc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tightenco/collect/zipball/0d89929f10a495ebafc15fb6bff5581d10c38abb",
-                "reference": "0d89929f10a495ebafc15fb6bff5581d10c38abb",
+                "url": "https://api.github.com/repos/tightenco/collect/zipball/5172ad96c54560352b79386b293375da40280fdc",
+                "reference": "5172ad96c54560352b79386b293375da40280fdc",
                 "shasum": ""
             },
             "require": {
@@ -311,7 +311,7 @@
                 "collection",
                 "laravel"
             ],
-            "time": "2018-10-30T21:09:13+00:00"
+            "time": "2018-11-09T19:12:42+00:00"
         }
     ],
     "packages-dev": [
