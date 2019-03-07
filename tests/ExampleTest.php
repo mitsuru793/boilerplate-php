@@ -3,9 +3,9 @@ declare(strict_types=1);
 
 namespace Php;
 
-use PHPUnit\Framework\TestCase;
+use Helper\TestBase;
 
-final class ExampleTest extends TestCase
+final class ExampleTest extends TestBase
 {
     public function testHello()
     {
