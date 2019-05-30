@@ -16,7 +16,7 @@
         "mikey179/vfsStream": "^1.6",
         "mihaeu/html-formatter": "^1.0",
         "symfony/var-dumper": "^4.1",
-        "friendsofphp/php-cs-fixer": "^2.13",
+        "friendsofphp/php-cs-fixer": "^2.15",
         "phpstan/phpstan": "dev-master"
     },
     "autoload": {
